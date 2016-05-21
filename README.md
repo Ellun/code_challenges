@@ -1,2 +1,3 @@
 # code_challenges
-Attempts at code challenge problems
+These are attempts are code challenge problems. Please feel free to submit your
+attempts in various languages!
