@@ -1,5 +1,4 @@
-// check if strings are permutations
-// case sensitive
+// ========= Elton's Solution ======== //
 
 let permutationCheck = (string1, string2) => {
   if (string1.length != string2.length) {

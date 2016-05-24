@@ -1,7 +1,4 @@
-/*
-Write a function that checks of characters within a string repeats
-*/
-
+// ========= Elton's Solution ======== //
 let isUnique = (string) => {
   let stringArray = string.split('');
   let array = [];

@@ -1,3 +1,5 @@
+// ======== Elton's solution ========= //
+
 let reverseString = (string) => {
   let reverse = '';
   for (let i = string.length - 1; i >= 0; i--) {
@@ -7,7 +9,6 @@ let reverseString = (string) => {
 }
 
 console.log(reverseString('hello world'));
-
 
 // ======== Bryce's solution ========= //
 
