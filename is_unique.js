@@ -28,4 +28,4 @@ function isUnique(string){
   arr.forEach(function(el){
 
   })
-}
+};
