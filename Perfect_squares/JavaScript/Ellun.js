@@ -5,7 +5,7 @@ let perfectSquares = (min, max) => {
       answersArray.push(i);
     }
   }
-  return answersArray;
+  return answersArray.length;
 }
 
 console.log(perfectSquares(1, 36));
