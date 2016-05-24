@@ -1,13 +1,4 @@
-/* Given an array of a pair of increasing integers, print the number of perfect squares in their range
- (inclusive)
 
-ex input: 4,16
-
-ex output: 3
-
-explanation: because 4, 9, and 16 are perfect squares
-
-*/ 
 
 function howManySquares(arr){
 	var first = arr[0];
