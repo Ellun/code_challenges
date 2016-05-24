@@ -18,3 +18,14 @@ let isUnique = (string) => {
 }
 console.log(isUnique('hello'));
 console.log(isUnique('world'));
+
+
+
+/// ========= Bryce's Solution ======== //
+
+function isUnique(string){
+  var arr = string.split('');
+  arr.forEach(function(el){
+
+  })
+}
