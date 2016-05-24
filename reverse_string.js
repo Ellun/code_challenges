@@ -21,3 +21,7 @@ function reverseString(string) {
 }
 
 reverseString("hello world");
+
+// ====== Code Golf ==== //
+
+const reverseString = (string) => string.split('').reverse().join('');
