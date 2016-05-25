@@ -18,4 +18,4 @@ in your language yet then feel free to create it! Save your file name with your
 GitHub username and save to the appropriate folder.</p>
 
 ### Sources
-These questions come from a variety of sources include online examples, class work, coding books and interviews. 
+These questions come from a variety of sources include online examples, class work, Cracking The Coding Interview book and interviews. 
