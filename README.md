@@ -16,3 +16,6 @@ named with an "_" in the beginning. This will move the file to the top of the
 folder. There are folders for different languages. If you don't see an answer
 in your language yet then feel free to create it! Save your file name with your
 GitHub username and save to the appropriate folder.</p>
+
+### Sources
+These questions come from a variety of sources include online examples, class work, coding books and interviews. 
