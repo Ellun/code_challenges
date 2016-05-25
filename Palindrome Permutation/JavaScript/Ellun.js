@@ -27,23 +27,12 @@ let pallyPerm = (string) => {
       }
     }
   }
-  let length = remainder0.length + remainder1.length;
-  let answer = [];
   if (remainder1.length > 1) {
     return "is not palidrome"
   }
-  for (let i = 0; i < remainder0.length; i++) {
-    answer.push(remainder0[i]);
-  }
-  if (length % 2 == 1) {
-    answer.push(remainder1[0]);
-  }
-  for (let i = remainder0.length - 1; i >= 0; i--) {
-    answer.push(remainder0[i]);
-  }
-  return answer.join('');
+  return true;
 }
 
 // currently only generates 1 solution. Need to add permutations
 
-console.log(pallyPerm('hhh ll'));
+console.log(pallyPerm('hhh lll'));
