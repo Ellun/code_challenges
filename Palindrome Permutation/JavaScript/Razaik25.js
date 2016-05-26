@@ -31,3 +31,9 @@ function palinPerm(str){
       return 'no palindrome permutation possible';
     }
 }
+
+
+// test cases
+
+palinPerm('cat');
+palinPerm('mat etam');
