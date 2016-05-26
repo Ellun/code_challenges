@@ -16,6 +16,7 @@ function processData(string) {
 
 
 // solution with explanation
+// scr rosetta code
 function processData(string) {
     
     // take input string and change to all lower case letters    
