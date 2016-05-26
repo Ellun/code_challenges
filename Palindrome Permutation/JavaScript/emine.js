@@ -22,4 +22,4 @@ function permPalidrome(str){  // if str is a single word
   }
 }
 
-// if a string has more words: 
+// if a string has more words:
