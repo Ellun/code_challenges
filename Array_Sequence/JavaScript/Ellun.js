@@ -2,7 +2,6 @@ let magnitude = (array) => {
   let max = 0;
   let count = 1;
   array = array.sort(); // makes sure the array is in order
-  console.log(array);
   for (let i = 0; i < array.length; i++) {
     if (array[i] == array[i + 1]) {
       count++
