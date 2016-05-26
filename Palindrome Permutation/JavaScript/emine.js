@@ -1,6 +1,7 @@
 function permPalidrome(str){  // if str is a single word
 
   var uniqueletters = [];
+
   var strArr = str.split("");
 
   for (var i = 0; i > strArr.length; i ++) {
@@ -20,3 +21,5 @@ function permPalidrome(str){  // if str is a single word
     return false
   }
 }
+
+// if a string has more words: 
